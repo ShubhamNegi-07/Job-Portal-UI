@@ -21,11 +21,11 @@ A modern and responsive **Job Board UI** built with **React**. It features clean
 
 ---
 
-# 🎯 UI Preview
+## 🎯 UI Preview
 
-```
-![Job Board UI](./src/assets/preview.png)
-```
+<p align="center">
+  <img src="./src/assets/preview.png" alt="Job Board UI" width="100%">
+</p>
 
 ---
 
