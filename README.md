@@ -23,18 +23,8 @@ A modern and responsive **Job Board UI** built with **React**. It features clean
 
 # 🎯 UI Preview
 
-> Save a screenshot of your project inside an `assets` folder and name it **preview.png**.
-
-```md
-job-board-ui/
-│── assets/
-│   └── preview.png
 ```
-
-Then display it using:
-
-```md
-![Job Board UI](./assets/preview.png)
+![Job Board UI](./src/assets/preview.png)
 ```
 
 ---
@@ -117,7 +107,7 @@ npm run dev
 Feel free to connect with me!
 
 - GitHub: https://github.com/ShubhamNegi-07
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: https://linkedin.com/in/shubham-singh11
 
 ---
 
